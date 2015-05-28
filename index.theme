@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Greybird
-Comment=Greybird theme
+Name=Greyerbird
+Comment=Greyerbird theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Greybird
-MetacityTheme=Greybird
-IconTheme=elementary-xfce-dark
+GtkTheme=Greyerbird
+MetacityTheme=Greyerbird
+IconTheme=Faenza-Dark
 CursorTheme=DMZ-White
 ButtonLayout=:minimize,maximize,close

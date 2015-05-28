@@ -1,12 +1,12 @@
 /* default color scheme */
-@define-color bg_color #cecece;
-@define-color fg_color #3c3c3c;
-@define-color base_color #fcfcfc;
-@define-color text_color #212121;
-@define-color selected_bg_color #398ee7;
-@define-color selected_fg_color #fff;
+@define-color bg_color #C5C5C5;
+@define-color fg_color #383838;
+@define-color base_color #EBEBEB;
+@define-color text_color #2B2B2B;
+@define-color selected_bg_color #3F3F3F;
+@define-color selected_fg_color #ffffef;
 @define-color tooltip_bg_color #000;
-@define-color tooltip_fg_color #e1e1e1;
+@define-color tooltip_fg_color #DCDCCC;
 
 /* colormap actually used by the theme, to be overridden in other css files */
 @define-color theme_bg_color @bg_color;
@@ -31,10 +31,10 @@
 @define-color question_bg_color rgb (57, 142, 231);
 @define-color error_fg_color rgb (251, 214, 214);
 @define-color error_bg_color rgb (237, 54, 54);
-@define-color link_color #2d71b8;
-@define-color success_color #4e9a06;
-@define-color warning_color #f57900;
-@define-color error_color #cc0000;
+@define-color link_color #8CD0D3;
+@define-color success_color ##7F9F7F;
+@define-color warning_color #DFAF8F;
+@define-color error_color #CC9393;
 
 /* widget colors */
 @define-color titlebar_bg_color @theme_bg_color;
@@ -45,7 +45,7 @@
 @define-color toolbar_fg_color @theme_fg_color;
 @define-color menu_bg_color shade(@theme_bg_color, 1.18);
 @define-color menu_fg_color @theme_fg_color;
-@define-color panel_bg_color #686868;
+@define-color panel_bg_color #6F6F6F;
 @define-color panel_fg_color #fcfcfc;
 
 /* osd */
