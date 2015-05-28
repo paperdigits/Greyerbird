@@ -31,7 +31,7 @@
 @define-color question_bg_color rgb (57, 142, 231);
 @define-color error_fg_color rgb (251, 214, 214);
 @define-color error_bg_color rgb (237, 54, 54);
-@define-color link_color #8CD0D3;
+@define-color link_color #7F9F7F;
 @define-color success_color ##7F9F7F;
 @define-color warning_color #DFAF8F;
 @define-color error_color #CC9393;

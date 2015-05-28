@@ -6,7 +6,7 @@
 gtk-color-scheme	= "bg_color:#C5C5C5\nselected_bg_color:#3F3F3F\nbase_color:#EBEBEB" # Background, base.
 gtk-color-scheme	= "fg_color:#383838\nselected_fg_color:#ffffef\ntext_color:#2B2B2B" # Foreground, text. 
 gtk-color-scheme	= "tooltip_bg_color:#000000\ntooltip_fg_color:#DCDCCC" # Tooltips.
-gtk-color-scheme	= "link_color:#8CD0D3" # Hyperlinks
+gtk-color-scheme	= "link_color:#7F9F7F" # Hyperlinks
 gtk-color-scheme	= "panel_bg:#6F6F6F" # Panel bg color
 gtk-color-scheme	= "fm_color:#F7F7F7" # Color used in Nautilus and Thunar.
 gtk-color-scheme	= "bg_color_dark:#6F6F6F\ntext_color_dark:#FFF"
